@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/c1c58abb-2803-42e0-b4f9-b4cac2ef97d8
 ![5240314857012268841](https://github.com/user-attachments/assets/d5de5729-45b6-4b30-bcb2-087fd6901c76)
 ![5240314857012268842](https://github.com/user-attachments/assets/d3ef6b0a-0c5e-4dac-b2ec-02caf3eb2e9d)
 
-Процесс печати занял 1:40!
+Процесс печати занял 1:40:00!
 
 ## Результат печати
 После печати пытаемся собрать наше изделие. К сожалению, при попытке сломалась цанга, а резьба не закручивается до конца.
@@ -51,3 +51,29 @@ https://github.com/user-attachments/assets/c1c58abb-2803-42e0-b4f9-b4cac2ef97d8
 ![5240314857012268844](https://github.com/user-attachments/assets/634281c8-7259-4139-8fff-eede6a7da789)
 
 С учетом этих ошибок редактиурем модель (уменьшаем длину резьбы), а также поменяем материал для цанги на более пластичный.
+
+## Процесс печати с новыми параметрами
+
+https://github.com/user-attachments/assets/9dea3f3d-1dcd-4e51-a1d5-2d27b29cc506
+
+https://github.com/user-attachments/assets/fc1230fa-5ce3-4f34-9956-3987296f89b7
+
+Процесс печати цанги, матариал PETG.
+
+Цанга из нового материала:
+
+![5265065207350889349](https://github.com/user-attachments/assets/b5cc2c5e-256b-4701-888b-c8aaae9eb64c)
+
+https://github.com/user-attachments/assets/b4ff6b1b-d8af-4830-98a0-85d02a414a25
+
+Процесс печати зажимов.
+
+## Результат и принцип работы инструмента
+
+https://github.com/user-attachments/assets/98669bff-c06e-495e-b0b6-f980de7c4f33
+
+![5265065207350889360](https://github.com/user-attachments/assets/8e1554f8-cbae-49f6-8871-8f8d139a9fee)
+![5265065207350889350](https://github.com/user-attachments/assets/e4f79614-252c-4cd3-8ca3-b75de7c29e72)
+
+
+
